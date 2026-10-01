@@ -171,16 +171,16 @@ h1 {
 }
 
 /* Tribe Base Colors */
-.tribe-Cila {
-  background-color: #f87217; /* orange */
+.tribe-Toka {
+  background-color: #ffe135; /* yellow */
+}
+
+.tribe-Savu {
+  background-color: #e7a1b0; /* purple */
 }
 
 .tribe-Kalo {
   background-color: #87cefa; /* blue */
-}
-
-.tribe-Vatu {
-  background-color: #e7a1b0; /* purple */
 }
 
 .tribe-Elim {
