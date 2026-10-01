@@ -1,66 +1,84 @@
 {
-  "leagueName": "Kortum Lab League",
+  "leagueName": "Lab League",
   "teams": [
     {
-      "teamName": "Bridget's Team",
+      "teamName": "Zoey's Team",
       "players": [
-        { "name": "Jonathan"},
-        { "name": "Kamilla" },
-        { "name": "Joe"}
+        { "name": "Sharonda"},
+        { "name": "Kilby" },
+        { "name": "Jelly"},
+        { "name": "Alexis"},
+        { "name": "Devin"}
       ]
     },
     {
-      "teamName": "Hyun's Team",
+      "teamName": "Picabo's Team",
       "players": [
-        { "name": "Savannah"},
-        { "name": "Emily" },
-        { "name": "Angelina"}
+        { "name": "Jenna"},
+        { "name": "Patt" },
+        { "name": "Linnea"},
+        { "name": "Thien An"},
+        { "name": "Kilby"}
       ]
     },
      {
-      "teamName": "Jacob's Team",
+      "teamName": "Bridget's Team",
       "players": [
-        { "name": "Christian"},
-        { "name": "Rizo" },
-        { "name": "Charlie"}
+        { "name": "Alexis"},
+        { "name": "Ori" },
+        { "name": "Patt"},
+        { "name": "Brady" },
+        { "name": "Mike"}
       ]
     },
          {
       "teamName": "Joey's Team",
       "players": [
-        { "name": "Genevieve"},
-        { "name": "Coach" },
-        { "name": "Chrissy"}
+        { "name": "Jenna"},
+        { "name": "Kristen" },
+        { "name": "Carter"},
+        { "name": "Maggie" },
+        { "name": "Lewis"}
       ]
     },
          {
-      "teamName": "Picabo's Team",
+      "teamName": "Jacob's Team",
       "players": [
-        { "name": "Colby"},
-        { "name": "Aubry" },
-        { "name": "Q"}
+        { "name": "Carter"},
+        { "name": "Eric" },
+        { "name": "Brady"},
+        { "name": "Cristian" },
+        { "name": "Linnea"}
       ]
     },
              {
-      "teamName": "Rob's Team",
+      "teamName": "Melissa's Team",
       "players": [
-        { "name": "Rick"},
-        { "name": "Ozzy" },
-        { "name": "Dee"}
+        { "name": "Sharonda"},
+        { "name": "Rob" },
+        { "name": "Lewis"},
+        { "name": "Thien An" },
+        { "name": "Maggie"}
       ]
     },
          {
-      "teamName": "Sarasi's Team",
+      "teamName": "Olivia's Team",
       "players": [
-        { "name": "Stephenie"},
-        { "name": "Mike" },
-        { "name": "Cirie"}
+        { "name": "Kristen"},
+        { "name": "Ori" },
+        { "name": "Jelly"},
+        { "name": "Rob" },
+        { "name": "Mike"}
       ]
     },
          {
       "teamName": "Undrafted",
       "players": [
-        { "name": "Tiffany"}
+        { "name": "Ana"},
+        { "name": "Ana" },
+        { "name": "Cristian"},
+        { "name": "Eric" },
+        { "name": "Devin"}
       ]
     }
   ]
