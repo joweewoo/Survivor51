@@ -31,7 +31,7 @@ async function loadLeaguePlayerScoreboard() {
     "league3": 2
   };
 
-  const startEpisode = leagueRules[leagueFile] || 1;
+  const startEpisode = leagueRules[leagueFile] || 2;
 
   // ======================================================
   // LOAD CONTESTANTS + BUILD TRIBE MAP
@@ -53,7 +53,7 @@ async function loadLeaguePlayerScoreboard() {
   // ======================================================
 
   let episodes = [];
-  let episodeNumber = 1;
+  let episodeNumber = 2;
 
   while (true) {
 
