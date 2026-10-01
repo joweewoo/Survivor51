@@ -3,11 +3,31 @@
 <head>
   <title>Player Scoreboard</title>
   <link rel="stylesheet" href="styles.css">
+
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  <style>
+    .player-chart-container {
+      position: relative;
+      width: 100%;
+      max-width: 1000px;
+      height: 500px;
+      margin: 30px auto 50px;
+    }
+  </style>
 </head>
+
 <body>
 
   <h1 class="league-header">Player Scoreboard</h1>
 
+  <!-- Player score graph -->
+  <div class="player-chart-container">
+    <canvas id="playerScoreChart"></canvas>
+  </div>
+
+  <!-- Existing player scoreboard -->
   <div id="scoreboardContainer"></div>
 
   <script src="scoreboard.js"></script>
