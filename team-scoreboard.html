@@ -3,12 +3,35 @@
 <head>
   <title>Team Scoreboard</title>
   <link rel="stylesheet" href="styles.css">
+
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  <style>
+    .team-chart-container {
+      position: relative;
+      width: 100%;
+      max-width: 1000px;
+      height: 450px;
+      margin: 30px auto 50px;
+    }
+  </style>
 </head>
+
 <body>
 
   <h1 id="teamScoreboardTitle" class="league-header"></h1>
+
+  <!-- Team score graph -->
+  <div class="team-chart-container">
+    <canvas id="teamScoreChart"></canvas>
+  </div>
+
+  <!-- Existing team scoreboard -->
   <div id="teamScoreboardContainer"></div>
+
   <a href="index.html" class="player-link">Back to Main Page</a>
+
   <script src="scoreboard.js"></script>
 
 </body>
