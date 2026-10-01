@@ -1,0 +1,29 @@
+{
+  "leagueName": "Contestants",
+  "teams": [
+    { "teamName": "Christian", "tribe" : "Elim", "eliminatedAfter": 9  },
+    { "teamName": "Cirie", "tribe" : "Elim", "eliminatedAfter": 12  },
+    { "teamName": "Emily", "tribe" : "Elim", "eliminatedAfter": 11  },
+    { "teamName": "Jenna", "tribe" : "Elim", "eliminatedAfter": 1  },
+    { "teamName": "Joe", "tribe" : "Manulevu", "eliminatedAfter": null  },
+    { "teamName": "Ozzy", "tribe" : "Elim", "eliminatedAfter": 11  },
+    { "teamName": "Rick", "tribe" : "Elim", "eliminatedAfter": 12  },
+    { "teamName": "Savannah", "tribe" : "Elim", "eliminatedAfter": 2  },
+    { "teamName": "Charlie", "tribe" : "Elim", "eliminatedAfter": 5  },
+    { "teamName": "Chrissy", "tribe" : "Elim", "eliminatedAfter": 8  },
+    { "teamName": "Coach", "tribe" : "Elim", "eliminatedAfter": 8  },
+    { "teamName": "Dee", "tribe" : "Elim", "eliminatedAfter": 7  },
+    { "teamName": "Jonathan", "tribe" : "Manulevu", "eliminatedAfter": null  },
+    { "teamName": "Kamilla", "tribe" : "Elim", "eliminatedAfter": 6  },
+    { "teamName": "Mike", "tribe" : "Elim", "eliminatedAfter": 4  },
+    { "teamName": "Tiffany", "tribe" : "Elim", "eliminatedAfter": 13  },
+    { "teamName": "Angelina", "tribe" : "Elim", "eliminatedAfter": 5  },
+    { "teamName": "Aubry", "tribe" : "Winner", "eliminatedAfter": null  },
+    { "teamName": "Colby", "tribe" : "Elim", "eliminatedAfter": 6  },
+    { "teamName": "Genevieve", "tribe" : "Elim", "eliminatedAfter": 6  },
+    { "teamName": "Kyle", "tribe" : "Elim", "eliminatedAfter": 1  },
+    { "teamName": "Q", "tribe" : "Elim", "eliminatedAfter": 3  },
+    { "teamName": "Rizo", "tribe" : "Elim", "eliminatedAfter": 13  },
+    { "teamName": "Stephenie", "tribe" : "Elim", "eliminatedAfter": 10  }
+  ]
+}
