@@ -172,7 +172,7 @@ h1 {
 
 /* Tribe Base Colors */
 .tribe-Toka {
-  background-color: #ffe135; /* yellow */
+  background-color: #ffff00; /* yellow */
 }
 
 .tribe-Savu {
@@ -186,9 +186,7 @@ h1 {
 .tribe-Elim {
   background-color: #ff0000; /* red */
 }
-.tribe-Manulevu {
-  background-color: #ffff00; /* yellow */
-}
+
 .tribe-Winner {
   background-color: #00ff00; /* green */
 }
