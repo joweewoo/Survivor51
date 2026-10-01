@@ -23,7 +23,7 @@ window.addEventListener("DOMContentLoaded", () => {
 async function loadAllEpisodes() {
 
   const episodes = [];
-  let episodeNumber = 1;
+  let episodeNumber = 2;
 
   while (true) {
     try {
@@ -55,7 +55,7 @@ function getStartEpisode(leagueFile) {
     "league3": 2
   };
 
-  return leagueRules[leagueFile] || 1;
+  return leagueRules[leagueFile] || 2;
 }
 
 
