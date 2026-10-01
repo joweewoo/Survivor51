@@ -1,0 +1,104 @@
+{
+  "leagueName": "LaMorte League",
+  "teams": [
+    {
+      "teamName": "Ally and Jordan's Team",
+      "players": [
+        { "name": "Christian"},
+        { "name": "Cirie" },
+        { "name": "Chrissy"},
+        { "name": "Jonathan"}
+      ]
+    },
+    {
+      "teamName": "Emily's Team",
+      "players": [
+        { "name": "Mike"},
+        { "name": "Ozzy" },
+        { "name": "Joe"},
+        { "name": "Jonathan"}
+      ]
+    },
+     {
+      "teamName": "Danny's Team",
+      "players": [
+        { "name": "Colby"},
+        { "name": "Charlie" },
+        { "name": "Dee"},
+        { "name": "Kamilla"}
+      ]
+    },
+    {
+      "teamName": "Jack's Team",
+      "players": [
+        { "name": "Christian"},
+        { "name": "Stephenie" },
+        { "name": "Savannah"},
+        { "name": "Coach"}
+      ]
+    },
+    {
+      "teamName": "Joey's Team",
+      "players": [
+        { "name": "Genevieve"},
+        { "name": "Coach" },
+        { "name": "Savannah"},
+        { "name": "Rizo"}
+      ]
+    },
+    {
+      "teamName": "Kate's Team",
+      "players": [
+        { "name": "Dee"},
+        { "name": "Mike" },
+        { "name": "Aubry"},
+        { "name": "Emily"}
+      ]
+    },
+    {
+      "teamName": "Kim's Team",
+      "players": [
+        { "name": "Rick"},
+        { "name": "Q" },
+        { "name": "Angelina"},
+        { "name": "Chrissy"}
+      ]
+    },
+    {
+      "teamName": "Mom's Team",
+      "players": [
+        { "name": "Stephenie"},
+        { "name": "Q" },
+        { "name": "Rick"},
+        { "name": "Tiffany"}
+      ]
+    },
+    {
+      "teamName": "Nicky's Team",
+      "players": [
+        { "name": "Colby"},
+        { "name": "Ozzy" },
+        { "name": "Tiffany"},
+        { "name": "Rizo"}
+      ]
+    },
+    {
+      "teamName": "Peyton's Team",
+      "players": [
+        { "name": "Cirie"},
+        { "name": "Joe" },
+        { "name": "Charlie"},
+        { "name": "Emily"}
+      ]
+    },
+    {
+      "teamName": "Robbie's Team",
+      "players": [
+        { "name": "Genevieve"},
+        { "name": "Kamilla" },
+        { "name": "Angelina"},
+        { "name": "Aubry"}
+      ]
+    }
+  ]
+}
