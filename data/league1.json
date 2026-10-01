@@ -4,45 +4,41 @@
     {
       "teamName": "Daddy Probst",
       "players": [
-        { "name": "Stephenie"},
-        { "name": "Ozzy" },
-        { "name": "Dee"},
-        { "name": "Christian"},
-        { "name": "Rick"},
-        { "name": "Mike"}
+        { "name": "Jenna"},
+        { "name": "Brady" },
+        { "name": "Alexis"},
+        { "name": "Devin"},
+        { "name": "Cristian"}
       ]
     },
     {
       "teamName": "Dragon Slayerz",
       "players": [
-        { "name": "Rizo"},
-        { "name": "Aubry" },
-        { "name": "Joe"},
-        { "name": "Jonathan"},
-        { "name": "Tiffany"},
-        { "name": "Savannah"}
+        { "name": "Rob"},
+        { "name": "Patt" },
+        { "name": "Mike"},
+        { "name": "Kilby"},
+        { "name": "Eric"}
       ]
     },
      {
       "teamName": "Scruntivieve",
       "players": [
-        { "name": "Genevieve"},
-        { "name": "Coach" },
-        { "name": "Jenna"},
-        { "name": "Colby"},
-        { "name": "Kamilla"},
-        { "name": "Q"}
+        { "name": "Kristen"},
+        { "name": "Carter" },
+        { "name": "Linnea"},
+        { "name": "Lewis"},
+        { "name": "Thien An"}
       ]
     },
          {
       "teamName": "The Motherie",
       "players": [
-        { "name": "Cirie"},
-        { "name": "Emily" },
-        { "name": "Angelina"},
-        { "name": "Chrissy"},
-        { "name": "Charlie"},
-        { "name": "Mike"}
+        { "name": "Ori"},
+        { "name": "Sharonda" },
+        { "name": "Maggie"},
+        { "name": "Jelly"},
+        { "name": "Ana"}
       ]
     }
   ]
