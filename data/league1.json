@@ -1,0 +1,49 @@
+{
+  "leagueName": "Tuku League",
+  "teams": [
+    {
+      "teamName": "Daddy Probst",
+      "players": [
+        { "name": "Stephenie"},
+        { "name": "Ozzy" },
+        { "name": "Dee"},
+        { "name": "Christian"},
+        { "name": "Rick"},
+        { "name": "Mike"}
+      ]
+    },
+    {
+      "teamName": "Dragon Slayerz",
+      "players": [
+        { "name": "Rizo"},
+        { "name": "Aubry" },
+        { "name": "Joe"},
+        { "name": "Jonathan"},
+        { "name": "Tiffany"},
+        { "name": "Savannah"}
+      ]
+    },
+     {
+      "teamName": "Scruntivieve",
+      "players": [
+        { "name": "Genevieve"},
+        { "name": "Coach" },
+        { "name": "Jenna"},
+        { "name": "Colby"},
+        { "name": "Kamilla"},
+        { "name": "Q"}
+      ]
+    },
+         {
+      "teamName": "The Motherie",
+      "players": [
+        { "name": "Cirie"},
+        { "name": "Emily" },
+        { "name": "Angelina"},
+        { "name": "Chrissy"},
+        { "name": "Charlie"},
+        { "name": "Mike"}
+      ]
+    }
+  ]
+}
