@@ -11,6 +11,27 @@
         { "name": "Cristian"}
       ]
     },
+    
+    {
+      "teamName": "Kate's Team",
+      "players": [
+        { "name": "Kristin"},
+        { "name": "Mike" },
+        { "name": "Sharonda"},
+        { "name": "Thien An"},
+        { "name": "Devin"}
+      ]
+    },
+     {
+      "teamName": "Mom's Team",
+      "players": [
+        { "name": "Patt"},
+        { "name": "Alexis" },
+        { "name": "Ori"},
+        { "name": "Thien An"},
+        { "name": "Brady"}
+      ]
+    },
     {
       "teamName": "Katie's Team",
       "players": [
@@ -32,16 +53,6 @@
       ]
     },
     {
-      "teamName": "Joey's Team",
-      "players": [
-        { "name": "Carter"},
-        { "name": "Jenna" },
-        { "name": "Maggie"},
-        { "name": "Lewis"},
-        { "name": "Eric"}
-      ]
-    },
-    {
       "teamName": "Jack's Team",
       "players": [
         { "name": "Eric"},
@@ -51,24 +62,14 @@
         { "name": "Kilby"}
       ]
     },
-    {
-      "teamName": "Mom's Team",
+   {
+      "teamName": "Joey's Team",
       "players": [
-        { "name": "Patt"},
-        { "name": "Alexis" },
-        { "name": "Ori"},
-        { "name": "Thien An"},
-        { "name": "Brady"}
-      ]
-    },
-    {
-      "teamName": "Kate's Team",
-      "players": [
-        { "name": "Kristin"},
-        { "name": "Mike" },
-        { "name": "Sharonda"},
-        { "name": "Thien An"},
-        { "name": "Devin"}
+        { "name": "Carter"},
+        { "name": "Jenna" },
+        { "name": "Maggie"},
+        { "name": "Lewis"},
+        { "name": "Eric"}
       ]
     }
   ]
