@@ -2,102 +2,73 @@
   "leagueName": "LaMorte League",
   "teams": [
     {
-      "teamName": "Ally and Jordan's Team",
+      "teamName": "Danny's Team",
       "players": [
-        { "name": "Christian"},
-        { "name": "Cirie" },
-        { "name": "Chrissy"},
-        { "name": "Jonathan"}
+        { "name": "Kristin"},
+        { "name": "Jenna" },
+        { "name": "Rob"},
+        { "name": "Linnea"},
+        { "name": "Cristian"}
       ]
     },
     {
-      "teamName": "Emily's Team",
+      "teamName": "Katie's Team",
       "players": [
-        { "name": "Mike"},
-        { "name": "Ozzy" },
-        { "name": "Joe"},
-        { "name": "Jonathan"}
+        { "name": "Carter"},
+        { "name": "Jelly" },
+        { "name": "Ori"},
+        { "name": "Alexis"},
+        { "name": "Maggie"}
       ]
     },
      {
-      "teamName": "Danny's Team",
+      "teamName": "Robbie's Team",
       "players": [
-        { "name": "Colby"},
-        { "name": "Charlie" },
-        { "name": "Dee"},
-        { "name": "Kamilla"}
-      ]
-    },
-    {
-      "teamName": "Jack's Team",
-      "players": [
-        { "name": "Christian"},
-        { "name": "Stephenie" },
-        { "name": "Savannah"},
-        { "name": "Coach"}
+        { "name": "Patt"},
+        { "name": "Mike" },
+        { "name": "Cristian"},
+        { "name": "Lewis"},
+        { "name": "Linnea"}
       ]
     },
     {
       "teamName": "Joey's Team",
       "players": [
-        { "name": "Genevieve"},
-        { "name": "Coach" },
-        { "name": "Savannah"},
-        { "name": "Rizo"}
+        { "name": "Carter"},
+        { "name": "Jenna" },
+        { "name": "Maggie"},
+        { "name": "Lewis"},
+        { "name": "Eric"}
       ]
     },
     {
-      "teamName": "Kate's Team",
+      "teamName": "Jack's Team",
       "players": [
-        { "name": "Dee"},
-        { "name": "Mike" },
-        { "name": "Aubry"},
-        { "name": "Emily"}
-      ]
-    },
-    {
-      "teamName": "Kim's Team",
-      "players": [
-        { "name": "Rick"},
-        { "name": "Q" },
-        { "name": "Angelina"},
-        { "name": "Chrissy"}
+        { "name": "Eric"},
+        { "name": "Sharonda" },
+        { "name": "Jelly"},
+        { "name": "Rob"},
+        { "name": "Kilby"}
       ]
     },
     {
       "teamName": "Mom's Team",
       "players": [
-        { "name": "Stephenie"},
-        { "name": "Q" },
-        { "name": "Rick"},
-        { "name": "Tiffany"}
+        { "name": "Patt"},
+        { "name": "Alexis" },
+        { "name": "Ori"},
+        { "name": "Thien An"},
+        { "name": "Brady"}
       ]
     },
     {
-      "teamName": "Nicky's Team",
+      "teamName": "Kate's Team",
       "players": [
-        { "name": "Colby"},
-        { "name": "Ozzy" },
-        { "name": "Tiffany"},
-        { "name": "Rizo"}
-      ]
-    },
-    {
-      "teamName": "Peyton's Team",
-      "players": [
-        { "name": "Cirie"},
-        { "name": "Joe" },
-        { "name": "Charlie"},
-        { "name": "Emily"}
-      ]
-    },
-    {
-      "teamName": "Robbie's Team",
-      "players": [
-        { "name": "Genevieve"},
-        { "name": "Kamilla" },
-        { "name": "Angelina"},
-        { "name": "Aubry"}
+        { "name": "Kristin"},
+        { "name": "Mike" },
+        { "name": "Sharonda"},
+        { "name": "Thien An"},
+        { "name": "Devin"}
       ]
     }
   ]
