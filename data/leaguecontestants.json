@@ -9,17 +9,17 @@
     { "teamName": "Lewis", "tribe" : "Toka", "eliminatedAfter": null  },
     { "teamName": "Maggie", "tribe" : "Toka", "eliminatedAfter": null  },
     { "teamName": "Mike", "tribe" : "Toka", "eliminatedAfter": null  },
-    { "teamName": "Patt", "tribe" : "Toka", "eliminatedAfter": null  },
+    { "teamName": "Patt", "tribe" : "Elim", "eliminatedAfter": 3  },
     { "teamName": "Thien An", "tribe" : "Toka", "eliminatedAfter": null  },
     { "teamName": "Ana", "tribe" : "Elim", "eliminatedAfter": 2  },
     { "teamName": "Alexis", "tribe" : "Savu", "eliminatedAfter": null  },
-    { "teamName": "Carter", "tribe" : "Savu", "eliminatedAfter": null  },
+    { "teamName": "Carter", "tribe" : "Toka", "eliminatedAfter": null  },
     { "teamName": "Cristian", "tribe" : "Savu", "eliminatedAfter": null  },
     { "teamName": "Eric", "tribe" : "Savu", "eliminatedAfter": null  },
     { "teamName": "Kristin", "tribe" : "Savu", "eliminatedAfter": null  },
     { "teamName": "Linnea", "tribe" : "Savu", "eliminatedAfter": null  },
     { "teamName": "Ori", "tribe" : "Savu", "eliminatedAfter": null  },
-    { "teamName": "Rob", "tribe" : "Savu", "eliminatedAfter": null  },
+    { "teamName": "Rob", "tribe" : "Elim", "eliminatedAfter": 3  },
     { "teamName": "Sharonda", "tribe" : "Savu", "eliminatedAfter": null  }
   ]
 }
