@@ -2,11 +2,11 @@
   "leagueName": "Contestants",
   "teams": [
     { "teamName": "Brady", "tribe" : "Toka", "eliminatedAfter": null  },
-    { "teamName": "Devin", "tribe" : "Toka", "eliminatedAfter": null  },
-    { "teamName": "Jelly", "tribe" : "Toka", "eliminatedAfter": null  },
-    { "teamName": "Jenna", "tribe" : "Toka", "eliminatedAfter": null  },
-    { "teamName": "Kilby", "tribe" : "Toka", "eliminatedAfter": null  },
-    { "teamName": "Lewis", "tribe" : "Toka", "eliminatedAfter": null  },
+    { "teamName": "Devin", "tribe" : "Savu", "eliminatedAfter": null  },
+    { "teamName": "Jelly", "tribe" : "Savu", "eliminatedAfter": null  },
+    { "teamName": "Jenna", "tribe" : "Elim", "eliminatedAfter": 4  },
+    { "teamName": "Kilby", "tribe" : "Dina", "eliminatedAfter": null  },
+    { "teamName": "Lewis", "tribe" : "Dina", "eliminatedAfter": null  },
     { "teamName": "Maggie", "tribe" : "Toka", "eliminatedAfter": null  },
     { "teamName": "Mike", "tribe" : "Toka", "eliminatedAfter": null  },
     { "teamName": "Patt", "tribe" : "Elim", "eliminatedAfter": 3  },
@@ -14,12 +14,12 @@
     { "teamName": "Ana", "tribe" : "Elim", "eliminatedAfter": 2  },
     { "teamName": "Alexis", "tribe" : "Savu", "eliminatedAfter": null  },
     { "teamName": "Carter", "tribe" : "Toka", "eliminatedAfter": null  },
-    { "teamName": "Cristian", "tribe" : "Savu", "eliminatedAfter": null  },
-    { "teamName": "Eric", "tribe" : "Savu", "eliminatedAfter": null  },
-    { "teamName": "Kristin", "tribe" : "Savu", "eliminatedAfter": null  },
-    { "teamName": "Linnea", "tribe" : "Savu", "eliminatedAfter": null  },
+    { "teamName": "Cristian", "tribe" : "Dina", "eliminatedAfter": null  },
+    { "teamName": "Eric", "tribe" : "Dina", "eliminatedAfter": null  },
+    { "teamName": "Kristin", "tribe" : "Toka", "eliminatedAfter": null  },
+    { "teamName": "Linnea", "tribe" : "Dina", "eliminatedAfter": null  },
     { "teamName": "Ori", "tribe" : "Savu", "eliminatedAfter": null  },
     { "teamName": "Rob", "tribe" : "Elim", "eliminatedAfter": 3  },
-    { "teamName": "Sharonda", "tribe" : "Savu", "eliminatedAfter": null  }
+    { "teamName": "Sharonda", "tribe" : "Dina", "eliminatedAfter": null  }
   ]
 }
