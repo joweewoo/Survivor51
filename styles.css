@@ -183,8 +183,12 @@ h1 {
   background-color: #87cefa; /* blue */
 }
 
+.tribe-Dina {
+  background-color: #b7410e; /* red */
+}
+
 .tribe-Elim {
-  background-color: #ff0000; /* red */
+  background-color: #d3d3d3; /* grey */
 }
 
 .tribe-Winner {
